@@ -130,7 +130,6 @@ footer {
     background-color: white;
     &:first-child {
       grid-column: span 2;
-      background-color: beige;
     }
     &:last-child {
       grid-column: 1 / -1;
