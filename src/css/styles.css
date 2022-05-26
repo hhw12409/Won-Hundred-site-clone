@@ -124,6 +124,7 @@ footer div {
 }
 footer div:first-child {
   grid-column: span 2;
+  background-color: beige;
 }
 footer div:last-child {
   grid-column: 1/-1;
